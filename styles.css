@@ -1,8 +1,29 @@
 body{
-	padding-top:20px;
-	padding-bottom:20px;
+	background-color: yellow;
+}
+
+
+.Name{
+	padding: 10px;
+	margin: 20px;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.nav{
+	background-color: #595959;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0 20px 0;
+}
+.nav li{
+	display: inline-block;
+	padding: 0 25px 0 25px;
+}
+.nav li a{
+	color: #ffffff;
 
 }
-.navbar{
-	margin-bottom:20px;
+.nav li a:hover{
+	color: #c1c1c1;
 }
