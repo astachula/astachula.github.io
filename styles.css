@@ -27,3 +27,6 @@ body{
 .nav li a:hover{
 	color: #c1c1c1;
 }
+p{
+	font-family: 'Roboto Condensed', sans-serif;
+}
