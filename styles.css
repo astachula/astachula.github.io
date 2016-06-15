@@ -29,4 +29,8 @@ body{
 }
 p{
 	font-family: 'Roboto Condensed', sans-serif;
+	padding-top: 20px;
+}
+.sitefooter{
+	background-color:black;
 }
